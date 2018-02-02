@@ -8,13 +8,24 @@ narrow: true
 
 <hr />
 
-The about page allows you to expand a bit more on the intro. Add some more information here about your skills, experience, etc.
+### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- 14+ years in IT industry, expertise in end-to-end solution architecture spanning multiple platforms.
+- Highly passionate about Data (Engineering, Science and Analytics) and its applications.
+- Rapid prototyping with attention to performance and scalability to iteratively build a robust solution.
+- Expert in troubleshooting and performance tuning complex system
+- Expertise with Relational, Hierarchical Databases and Big Data Analytics.
+- Lead multiple teams towards high quality, on-time delivery in enhancing business critical systems
+- Consistently looked up by peers and superiors for innovative out of the box solutions
+- Love learning (perpetually) and implementing new technologies/ideas from scratch
 
 ### Technology
 
-* JavaScript
-* Python
-* Go
-* Etc
+- **OS**: Linux, Unix-AIX, OSX, Windows (7,10), zOS
+- **Languages**: Python, Perl, SQL, C/C++, COBOL, PL/1, Scala, Java
+- **Databases**: DB2 LUW/DPF, Greenplum, DB2 zOS, Oracle 11g, Hadoop HDFS, Hive, IMS-DB/DC
+- **Web**: HTML5, Javascript, D3.js, jQuery, JSP, Servlets, Apache Tomcat, Adobe Flex, XMPP
+- **Reporting**: SAP Business Objects Enterprise Universe Designer & Web Intelligence, Cognos Framework manager, Cognos TM1, Cognos Query Studio, Cognos Workspace Advanced, Tibco Spotfire, Tableau.
+- **Schedulers**: Control-M, Apache Oozie, Cron, Appworx.
+- **Others**: Git, MapReduce, Hadoop Streaming, Numpy, Pandas, Dask, ScikitLearn, Sqoop, Informatica
+Powercenter MS-Office, MS-Projects, Visio
