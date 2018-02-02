@@ -7,6 +7,7 @@ Presentations used for my ETL team at work.
 ## [Session 1](https://atulsaurav.github.io/Python-Lunch-and-Learn/Session1.html)
 - Introduction to Python
 - Basic Types
+- Ordered Collections
 
 ## [Session 2](https://atulsaurav.github.io/Python-Lunch-and-Learn/Session2.html)
 - Recap - Simple vs Complex Compound Data Types (Collections)
