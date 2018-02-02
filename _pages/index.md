@@ -21,7 +21,7 @@ When I have time betweeen my work and school, I love working on data related pro
 
 ### Posts
 
-John has posted a bunch of tips about how to use Friday Theme. There's the three most-recent posts below, or here's [all posts by year.]({{ site.baseurl }}{% link list/posts.html %})
+This is where I intend to post my thoughts, ideas and updates. There's the three most-recent posts below, or here's [all posts by year.]({{ site.baseurl }}{% link list/posts.html %})
 
 ### Recent Posts
 
