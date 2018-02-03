@@ -1056,6 +1056,7 @@ plt.show()
 ![png](https://s3.amazonaws.com/cva-traffic-analysis/output_49_0.png)
 
 
+### Which county has the most accidents?
 
 ```python
 dummy.city.value_counts(dropna=False)[:10].plot(kind='bar')
@@ -1066,6 +1067,9 @@ plt.show()
 ![png](https://s3.amazonaws.com/cva-traffic-analysis/output_51_0.png)
 
 
+### Where are the most accident prone zones?
+
+Drive safe here!
 
 ```python
 reports[reports.type == 'Accident'].groupby(['hwy','loc'])['id'].count().sort_values(ascending=False)[:10].plot(kind='bar')
@@ -1093,3 +1097,6 @@ plt.show()
 
 ![png](https://s3.amazonaws.com/cva-traffic-analysis/output_60_0.png)
 
+### Summary
+
+Drive safe all the time! But especially around MM78 , MM74 and MM79 on I-95. Also apparently there 8am and 5pm are when most accidents happen. Do dont rush to office and relax when you drive back home. Unwind!
