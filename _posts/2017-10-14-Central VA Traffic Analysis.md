@@ -6,7 +6,7 @@ tags:
   - simple
 ---
 
-This is a simple analysis of Tweets from @511centralva to analyze traffic conditions in the Central VA area. The is the first attempt with any NLP and utilizes regex to parse tweets.
+This is a simple analysis of Tweets from @511centralva to analyze traffic conditions in the Central VA area. The is the first attempt without any NLP and utilizes regex to parse tweets.
 
 The aim is to obtain accident prone zones and times during the day.
 
