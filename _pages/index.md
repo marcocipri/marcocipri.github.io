@@ -21,7 +21,7 @@ When I have time betweeen my work and school, I love working on data related pro
 
 ### Posts
 
-This is where I intend to post my thoughts, ideas and updates. There's the three most-recent posts below, or here's [all posts by year.]({{ site.baseurl }}{% link list/posts.html %})
+This is where I intend to post my thoughts, ideas and updates. The most-recent posts are below, or here's [all posts by year.]({{ site.baseurl }}{% link list/posts.html %})
 
 ### Recent Posts
 
