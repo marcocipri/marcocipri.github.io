@@ -1,5 +1,10 @@
-
-# Hyperparameter Tuning & ML Pipelines
+---
+title:  Hyperparameter Tuning & ML Pipelines
+tags:
+  - scikit-learn
+  - machine learning
+  - python
+---
 
 This is the notebook underlying the reveal.js slides that were used for Richmond Data Science community meetup meetup on May 29th, 2018.
 
