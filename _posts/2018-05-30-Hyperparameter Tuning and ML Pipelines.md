@@ -6,7 +6,7 @@ tags:
   - python
 ---
 
-This is the notebook underlying the reveal.js slides that were used for Richmond Data Science community meetup meetup on May 29th, 2018.
+This is the notebook underlying the reveal.js slides that were used for <a href="https://www.meetup.com/Richmond-Data-Science-Community-Meetup/events/250460220/">Richmond Data Science community meetup on May 30th, 2018.</a>
 
 <!--more-->
 ## About me:
