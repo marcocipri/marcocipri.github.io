@@ -10,7 +10,7 @@ narrow: true
 
 ### Summary
 
-- 14+ years in IT industry, expertise in end-to-end solution architecture spanning multiple platforms.
+- 16+ years in IT industry, expertise in end-to-end solution architecture spanning multiple platforms.
 - Highly passionate about Data (Engineering, Science and Analytics) and its applications.
 - Rapid prototyping with attention to performance and scalability to iteratively build a robust solution.
 - Expert in troubleshooting and performance tuning complex system
