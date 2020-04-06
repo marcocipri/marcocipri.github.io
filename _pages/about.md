@@ -10,8 +10,11 @@ narrow: true
 
 ### Summary
 
+https://teamdigitale.governo.it/en/people/marco-cipri.html
+
 ** work in progress **
 ### Technology
 
 ** work in progress **
+
 
