@@ -7,9 +7,9 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Atul Saurav | Homepage  # Site title
-name:             Atul Saurav              # Your name
-avatar:           /theme/img/avatar.jpg   # Path to an avatar image
+title:            Marco Cipri | Homepage  # Site title
+name:             Marco Cipri              # Your name
+avatar:           /theme/img/marco-cipri.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
