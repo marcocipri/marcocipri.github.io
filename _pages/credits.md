@@ -4,8 +4,14 @@ permalink: credits.html
 narrow: true
 ---
 
-{% include components/intro.md %}
+I begin This blog during the lockdown due to the corona virus.
+I took the opportunity to create a technical blog that could represent me.
+After a couple of days of exploration I decided to use free and open source platforms.
+On this trip I have to thank:
 
-<hr />
+[jekyll](https://jekyllrb.com/)
 
-** work in progress **
+[friday-theme](https://github.com/sfreytag/friday-theme)
+
+[Atul Saurav](https://atulsaurav.github.io/) (I forker from your project, I hope that's not a problem for you)
+

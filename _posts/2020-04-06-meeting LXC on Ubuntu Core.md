@@ -1,14 +1,25 @@
 ---
-title:  Central VA traffic analysis
+title:  meeting LXC on Ubuntu Core
 tags:
-  - analysis
-  - tweets
-  - simple
+  - linux containers
+  - linux
+  - ubuntu core
+  - nuc
 ---
 
-This is a simple analysis of Tweets from @511centralva to analyze traffic conditions in the Central VA area. The is the first attempt without any NLP and utilizes regex to parse tweets.
+The real topic of this post should be "_how a rash buy has becomes an exciting surprise_".
+I was quite annoyed making new virtual machines on my laptop and I needed an environment in order to test some Ansible scripts I made.
 
-The aim is to obtain accident prone zones and times during the day.
+Searching a solution I find out, on the second hand market, a bare bone solution from Intel : NUC Kit NUC8i5BEH. 
+Small less my 2007 old but glorious Mac Mini and cheap enough... 
+
+
+<!--more-->
+
+## begin :
+Once in my hands, unboxed then temporarily connected to the living room TV just for the time needed to install a linux distro…. My idea was to use the NUC as base for a Virtual Box's host but this plan would been changed soon
+
+[![asciicast](https://asciinema.org/a/17648.svg)](https://asciinema.org/a/17648)
 
 <!--more-->
 ```python

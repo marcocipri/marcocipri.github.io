@@ -4,8 +4,6 @@
 - title: Posts
   href: list/posts.html
 
-- title: Projects
-  href: list/projects.html
   
 - title: About
   href: about.html
@@ -13,6 +11,5 @@
 - title: Credits
   href: credits.html
 
-#- title: Portfolio
-#  href: list/portfolio.html
+
 
