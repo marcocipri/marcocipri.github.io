@@ -10,7 +10,7 @@ narrow: true
 
 ### Summary
 
-[my experience in Team Digitalr](https://teamdigitale.governo.it/en/people/marco-cipri.html)
+[my experience in Team Digitale](https://teamdigitale.governo.it/en/people/marco-cipri.html)
 
 ** work in progress **
 ### Technology
