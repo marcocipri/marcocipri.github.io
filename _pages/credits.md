@@ -4,10 +4,9 @@ permalink: credits.html
 narrow: true
 ---
 
-I begin This blog during the lockdown due to the corona virus.
-I took the opportunity to create a technical blog that could represent me.
-After a couple of days of exploration I decided to use free and open source platforms.
-On this trip I have to thank:
+This blog has been started during the lockdown due to the corona virus. I took the opportunity to create a technical blog that could represent me.  
+After a couple of days of exploration I decided to use free and open source platforms.  
+On th road of this trip I have to thank:
 
 [jekyll](https://jekyllrb.com/)
 
