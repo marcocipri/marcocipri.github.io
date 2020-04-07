@@ -10,11 +10,22 @@ narrow: true
 
 ### Summary
 
-https://teamdigitale.governo.it/en/people/marco-cipri.html
+[my experience in Team Digitalr](https://teamdigitale.governo.it/en/people/marco-cipri.html)
 
 ** work in progress **
 ### Technology
+# 
+* Docker 
+* Python
+* Java
+* ActiveMq
+* Kafka
+** work in progress **
 
+
+### methodology
+* Microservices
+* Scrum  
 ** work in progress **
 
 

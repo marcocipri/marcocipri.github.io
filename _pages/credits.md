@@ -15,3 +15,6 @@ On this trip I have to thank:
 
 [Atul Saurav](https://atulsaurav.github.io/) (I forker from your project, I hope that's not a problem for you)
 
+https://www.markdownguide.org/
+
+https://daringfireball.net/projects/markdown/

@@ -1,0 +1,10 @@
+---
+title: Collection of Various Stuff
+narrow: true
+permalink: list/miscellaneous.html
+show_profile: true
+---
+
+{% for project in site.miscellaneous %}
+- [{{ miscellaneous.title }}]({{ site.baseurl }}{{ miscellaneous.url }})
+{% endfor %}

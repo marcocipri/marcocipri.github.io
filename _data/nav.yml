@@ -3,10 +3,12 @@
 
 - title: Posts
   href: list/posts.html
-
   
 - title: About
   href: about.html
+
+- title: Miscellaneous
+  href: list/miscellaneous.html  
 
 - title: Credits
   href: credits.html

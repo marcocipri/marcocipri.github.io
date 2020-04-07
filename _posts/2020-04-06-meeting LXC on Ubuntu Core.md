@@ -7,7 +7,7 @@ tags:
   - nuc
 ---
 
-The real topic of this post should be "_how a rash buy has becomes an exciting surprise_".
+The real topic of this post should be "_how a rash buy has becomes an exciting surprise_".  
 I was quite annoyed making new virtual machines on my laptop and I needed an environment in order to test some Ansible scripts I made.
 
 Searching a solution I find out, on the second hand market, a bare bone solution from Intel : NUC Kit NUC8i5BEH. 

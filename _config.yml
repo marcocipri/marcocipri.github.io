@@ -37,12 +37,6 @@ defaults:
     values:
       show_profile: false
       layout: defaults/post
-  -
-    scope:
-      path: "_portfolio"
-    values:
-      show_profile: false
-      layout: defaults/portfolio
 
   -
     scope:
@@ -51,4 +45,9 @@ defaults:
       show_profile: false
       layout: defaults/list
 
-
+  -
+    scope:
+      path: "miscellaneous"
+    values:
+      show_profile: false
+      layout: defaults/miscellaneous
